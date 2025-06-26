@@ -1,0 +1,30 @@
+
+
+Sno	raghu-commands
+1	ls -l -A
+2	pwd
+3	cd
+4	touch
+5	rm -f -r
+6	cp -r
+7	mv
+8	cat
+9	tail
+10	head
+11	grep
+12	awk
+13	vim
+14	sed
+15	curl
+16	tar -xf
+17	unzip
+18	pipe
+19	ps -ef
+20	kill -9
+21	sudo
+22	sudo useradd
+23	dnf install / remove / list
+24	systemctl start / restart /stop /enable / disable
+25	chown
+26	chgrp
+27	chmod
