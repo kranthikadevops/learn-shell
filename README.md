@@ -1,15 +1,3 @@
 # learn-shell
-Smaple repo 
-sample repo 2dd ddddd
-
-ls
-
-l
-ls
-
-kranthi
-
-kranthiku
-asdfdsa
-ram
-
+Sample repo 
+Sample Repo Version 2 
